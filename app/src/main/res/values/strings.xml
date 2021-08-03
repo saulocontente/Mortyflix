@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mortyflix</string>
+    <string name="sinopse">Rick Sanchez é um cientista genial e alcoólatra que foi morar com a família de sua filha Beth, uma cirurgiã cardíaca de equinos. Ele divide seu tempo entre desenvolver projetos altamente tecnológicos em seu laboratório (garagem da casa de Beth) e levar seu neto de 14 anos Morty em aventuras perigosas e surreais pelo Multiverso. Combinados com tensões preexistentes dentro da família, esses eventos causam ao sensível Morty muito angústia em casa e na escola.</string>
+    <string name="serie_name">Rick and Morty</string>
+    <string name="serie_year">2013</string>
+    <string name="serie_season">1 Temporada</string>
+    <string name="title_activity_fullscreen">Rick and Morty</string>
+</resources>

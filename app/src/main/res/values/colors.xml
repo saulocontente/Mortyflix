@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="redflix_200">#E8555E</color>
+    <color name="redflix_300">#E83843</color>
+    <color name="redflix_500">#E62733</color>
+    <color name="redflix_700">#E60816</color>
+    <color name="redflix_900">#E6000E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
